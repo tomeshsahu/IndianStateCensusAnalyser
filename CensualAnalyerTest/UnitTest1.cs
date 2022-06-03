@@ -13,15 +13,15 @@ namespace CensualAnalyerTest
 
         static string indianStateCensusHeaders = "State,Population,AreaInSqKm,DensityPerSqKm";
         static string indianStateCodeHeaders = "SrNo,State Name,TIN,StateCode";
-        static string indianStateCensusFilePath = @"D:\Fellowship\Fellowship05-Day22_DesignPrincipal\IndianStateCensusAnalyzer\NUnitTestProject1\CsvFiles\IndiaStateCensusData.csv";
-        static string wrongHeaderIndianCensusFilePath = @"C:\Users\Dell\source\repos\CensusAnalyser\CensusAnalyserTest\CsvFiles\WrongIndiaStateCensusData.csv";
-        static string delimiterIndianCensusFilePath = @"C:\Users\Dell\source\repos\CensusAnalyser\CensusAnalyserTest\CsvFiles\DelimiterIndiaStateCensusData.csv";
-        static string wrongIndianStateCensusFilePath = @"D:\Fellowship\Fellowship05-Day22_DesignPrincipal\IndianStateCensusAnalyzer\NUnitTestProject1\CsvFiles\WrongIndiaStateCensusData.csv";
-        static string wrongIndianStateCensusFileType = @"C:\Users\Dell\source\repos\CensusAnalyser\CensusAnalyserTest\CsvFiles\IndiaStateCensusData.txt";
-        static string indianStateCodeFilePath = @"D:\Fellowship\Fellowship05-Day22_DesignPrincipal\IndianStateCensusAnalyzer\NUnitTestProject1\CsvFiles\IndiaStateCode.csv";
-        static string wrongIndianStateCodeFileType = @"C:\Users\Dell\source\repos\CensusAnalyser\CensusAnalyserTest\CsvFiles\IndiaStateCode.txt";
-        static string delimiterIndianStateCodeFilePath = @"C:\Users\Dell\source\repos\CensusAnalyser\CensusAnalyserTest\CsvFiles\DelimiterIndiaStateCode.csv";
-        static string wrongHeaderStateCodeFilePath = @"D:\Fellowship\Fellowship05-Day22_DesignPrincipal\IndianStateCensusAnalyzer\NUnitTestProject1\CsvFiles\WrongIndiaStateCode.csv";
+        static string indianStateCensusFilePath = @"E:\IndianStateCensusAnalyzer\IndianStateCensusAnalyser\CensualAnalyerTest\CsvFiles\IndiaStateCensusData.csv";
+        static string wrongHeaderIndianCensusFilePath = @"E:\IndianStateCensusAnalyzer\IndianStateCensusAnalyser\CensualAnalyerTest\CsvFiles\WrongIndiaStateCensusData.csv";
+        static string delimiterIndianCensusFilePath = @"E:\IndianStateCensusAnalyzer\IndianStateCensusAnalyser\CensualAnalyerTest\CsvFiles\DelimiterIndiaStateCensusData.csv";
+        static string wrongIndianStateCensusFilePath = @"E:\IndianStateCensusAnalyzer\IndianStateCensusAnalyser\CensualAnalyerTest\CsvFiles\WrongIndiaStateCensusData.csv";
+        static string wrongIndianStateCensusFileType = @"E:\IndianStateCensusAnalyzer\IndianStateCensusAnalyser\CensualAnalyerTest\CsvFiles\WrongIndiaStateCensusData.txt";
+        static string indianStateCodeFilePath = @"E:\IndianStateCensusAnalyzer\IndianStateCensusAnalyser\CensualAnalyerTest\CsvFiles\IndiaStateCode.csv";
+        static string wrongIndianStateCodeFileType = @"E:\IndianStateCensusAnalyzer\IndianStateCensusAnalyser\CensualAnalyerTest\CsvFiles\IndiaStateCode.txt";
+        static string delimiterIndianStateCodeFilePath = @"E:\IndianStateCensusAnalyzer\IndianStateCensusAnalyser\CensualAnalyerTest\CsvFiles\DelimiterIndiaStateCode.csv";
+        static string wrongHeaderStateCodeFilePath = @"E:\IndianStateCensusAnalyzer\IndianStateCensusAnalyser\CensualAnalyerTest\CsvFiles\WrongIndiaStateCode.csv";
         //US Census FilePath
         static string usCensusHeaders = "State Id,State,Population,Housing units,Total area,Water area,Land area,Population Density,Housing Density";
         static string usCensusFilepath = @"C:\Users\Dell\source\repos\CensusAnalyser\CensusAnalyserTest\CsvFiles\USCsvFiles\USCensusData.csv";

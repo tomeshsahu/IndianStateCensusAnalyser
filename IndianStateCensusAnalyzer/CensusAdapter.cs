@@ -26,6 +26,12 @@ namespace IndianStateCensusAnalyzer
             }
             return censusData;
         }
+
+        public static void Main(string[] args)
+        {
+            CensusAdapter obj=new CensusAdapter();
+            obj.GetCensusData();
+        }
     }
 }
 
